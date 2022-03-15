@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&display=swap');
+@font-face{
+    font-family: Boldesqo;
+    src: url(Boldesqo.ttf);
+}
+body{
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 500px;
+}
+.nav-link{
+    font-size: 18px;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+#present-text{
+    padding-top: 15px;
+}
+.nav-color{
+    background-color: #FFE4D4;
+}
+#nav-text{
+    color: #224a49;
+    text-shadow: #6FCFCD 2px 2px;
+    font-size: 25px;
+}
+h2{
+    font-weight: 900;
+    font-size: 38px;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 0px;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-shadow:#BD622C 3px 3px;
+}
+#pre{
+    font-size: 38px;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 0px;
+    color: #224a49;
+    text-shadow: #6FCFCD 3px 3px;
+}
+h3{
+    font-weight: 700;
+    font-size: 32px;
+    text-transform: uppercase;
+    font-family: 'Barlow Condensed', sans-serif;
+    padding-bottom: 5px;
+    text-align: center;
+    color: #195B4B;
+    font-weight: 50px;
+    padding-top: 30px;
+}
+
+#encabezado{
+    background-color: #000000;
+    color: #dddddd;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#comedia, #musical, #accion{
+    background-color: #807C77;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#prem{
+    background-color: #807C77; 
+    text-shadow: #000000;
+}
+#trailers{
+    background-color: #000000;
+}
+#presentacion{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #FFE4D4;
+}
+#wrappingimage{
+    float: right;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+#primer-p{
+    font-size: 24px;
+    color: #ffffff;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+#wrappingimage2{
+    float: left;
+    padding-right: 15px;
+    padding-top: 7px;
+}
+
+#main-footer{
+    background-color: #000000;
+    color: #cccccc;
+    padding: 30px 0;
+}
+.navbar-brand{
+    width: 130px;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    text-align: justify;
+    color: #333333;
+    font-weight: 100px;
+}
+
+h5{
+    font-size: 18px;
+}
+p2{
+    text-align: center;
+    font-size: 25px
+}
+
+.lines{
+    position: relative;
+    background-color:#000000;
+    padding-bottom: 5px;
+    padding-top: 1px;
+}
+#top-nav{
+    padding-top: 5px;
+    padding-bottom: 0px;
+    line-height: 0.5;
+}
+#premios, #scene{
+    background-color: #ffbb93;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#suscribete{
+    background-color: #a8d4d4;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#susc{
+    color:#807C77;
+    text-shadow: black 3px 3px;
+}
+#actores{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#act{
+    color:#6FCFCD;
+    text-shadow:#224a49 3px 3px;
+}
+#btnAumentar1, #btnAumentar2, #btnReducir1, #btnReducir2{
+    font-size: 15px;
+}
+#game{
+    background-color: #619494;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.caja{
+    border: solid 5px #d15b4b;
+    height: 490px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.puzzle{
+    max-width: 20%;
+    margin-left: 11.5px;
+    margin-right: 11.5px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+#onep{
+    font-size: 38px;
+    text-align: center;
+    color: #FFE4D4;
+    text-shadow: #d15b4b 3px 3px;
+}
+.botones{margin-top: 15px;}
+.btn-primary{
+    background-color: brown;
+    border-color: black;
+}
